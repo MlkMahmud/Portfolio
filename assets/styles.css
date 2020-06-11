@@ -87,9 +87,9 @@ a:focus {
 }
 
 .card {
-  -webkit-box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.25);
-  -moz-box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.25);
-  box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.25);
 }
 
 .card-image__wrapper {
