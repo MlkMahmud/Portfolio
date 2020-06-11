@@ -130,11 +130,6 @@ a:focus {
   height: 20px;
 }
 
-.bold-text {
-  font-weight: bold;
-  font-size: 1.2rem;
-}
-
 @media screen and (min-width: 500px) {
   .nav-list__item {
     display: inline;
